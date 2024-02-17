@@ -1,0 +1,14 @@
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\bin\Debug\net8.0\EksikSayi.exe
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\bin\Debug\net8.0\EksikSayi.deps.json
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\bin\Debug\net8.0\EksikSayi.runtimeconfig.json
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\bin\Debug\net8.0\EksikSayi.dll
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\bin\Debug\net8.0\EksikSayi.pdb
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\obj\Debug\net8.0\EksikSayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\obj\Debug\net8.0\EksikSayi.AssemblyInfoInputs.cache
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\obj\Debug\net8.0\EksikSayi.AssemblyInfo.cs
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\obj\Debug\net8.0\EksikSayi.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\obj\Debug\net8.0\EksikSayi.dll
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\obj\Debug\net8.0\refint\EksikSayi.dll
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\obj\Debug\net8.0\EksikSayi.pdb
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\obj\Debug\net8.0\EksikSayi.genruntimeconfig.cache
+C:\Users\Ali Can\source\repos\EksikSayi\EksikSayi\obj\Debug\net8.0\ref\EksikSayi.dll
