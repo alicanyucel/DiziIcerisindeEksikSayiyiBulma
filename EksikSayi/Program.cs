@@ -20,7 +20,7 @@
 
         // Eksik olan değişkeni yazdır
         foreach (int sayi in eksikSayi)
-            Console.WriteLine(sayi);
+            Console.WriteLine("eksik sayilar:"sayi);
         Console.ReadKey();
     }
 }
